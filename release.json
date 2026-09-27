@@ -1,0 +1,14 @@
+{
+  "channel": "stable",
+  "publishedAt": "2026-09-27T00:00:00Z",
+  "notes": "OGBG 1.0.1\n\n\u2022 Admin commands: #everyone and #admins broadcast a banner to every client; #announce, #lock, #unlock, #slowmode, #role, #verify, #unverify, #help.\n\u2022 Fixed message sends being denied in channels with no settings document.\n\u2022 Fixed pending-approval requests being clipped on narrow screens.\n\u2022 Added sign out on the profile screen.\n\u2022 Channel column is now collapsible and starts collapsed.\n\u2022 The search bar actually searches.",
+  "platforms": {
+    "android": {
+      "versionName": "1.0.1",
+      "versionCode": 3,
+      "url": "https://github.com/shelad3/ogbg-releases/releases/download/v1.0.1/ogbg-1.0.1.apk",
+      "sha256": "92e5618ebb7b7cf11786bbf16344f2c1e78f246657b88674cccae701660d7372",
+      "sizeBytes": 54325075
+    }
+  }
+}
